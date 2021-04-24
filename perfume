@@ -1,14 +1,14 @@
-{
-  "perfume": [
+ {
+   "perfume": [
     {
       "id": 10,
       "nome": "La Vie Est Belle",
       "marca": "Lâncome"
     },
-	{
+	  {
       "id": 20,
       "nome": "212 VIP",
       "marca": "Carolina Herrera"
-    },
+    }
   ]
- }
+}
